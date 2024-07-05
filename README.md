@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 
+**### I am currently pursuing Masters in Data Science at University of Michigan - Ann Arbor. I am actively seeking full-time Data Scientist / Data Analyst / Machine Learning Engineer roles starting May 2025.
+#### Linkedin - https://www.linkedin.com/in/naman-bhargava-2702000/
+#### Resume- https://shorturl.at/WxQdT
 
 <!--
 **Naman-Bhrgv/Naman-Bhrgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
