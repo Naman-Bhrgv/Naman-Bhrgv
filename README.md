@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I am currently pursuing Masters in Data Science at University of Michigan - Ann Arbor. I have applied Machine Learning across different domains such as, Remote Sensing and Chemistry to extract valuable insights. I am actively seeking full-time Data Scientist / Data Analyst / Machine Learning Engineer roles starting May 2025.
+I am currently pursuing Masters in Data Science at University of Michigan - Ann Arbor. I have expreinece of applying Machine Learning models across different domains such as, Remote Sensing and Chemistry to extract valuable insights. I am actively seeking full-time Data Scientist / Data Analyst / Machine Learning Engineer roles starting May 2025.
 #### Linkedin - https://www.linkedin.com/in/naman-bhargava-2702000/
 #### Resume- https://shorturl.at/WxQdT
 
